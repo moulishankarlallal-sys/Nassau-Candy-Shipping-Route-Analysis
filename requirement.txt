@@ -1,7 +1,5 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-openpyxl
-ipython
+   streamlit>=1.50.0
+   pandas
+   numpy
+   plotly
+   openpyxl
