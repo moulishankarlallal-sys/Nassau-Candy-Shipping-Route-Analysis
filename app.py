@@ -1,5 +1,5 @@
 """
-Nassau Candy - Shipping Route Analysis Dashboard (Streamlit) - v2
+Nassau Candy - Shipping Route Analysis Dashboard (Streamlit) - v3
 
 Only needs: streamlit, pandas, numpy (installed with Streamlit) + openpyxl for .xlsx.
 No plotly / matplotlib / seaborn / google.colab.
