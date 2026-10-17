@@ -1,3 +1,14 @@
+/* =====================================================================
+   EUROPEAN BANK CUSTOMER CHURN - STEP-BY-STEP SQL ANALYSIS (MySQL)
+   Table: european_bank  (10,000 rows, 78 columns)
+   Note: the pre-computed columns (Churn Rate, Germany Churned, etc.) repeat
+   the same value on every row, so we recompute everything from raw columns.
+   ===================================================================== */
+
+
+CREATE DATABASE nassau_candy;
+USE nassau_candy;
+
 CREATE TABLE Raw_Shipments (
     `Row ID` INT,
     `Order ID` VARCHAR(100),
